@@ -74,7 +74,7 @@ npx hardhat coverage
 ```
 
 ## Static test
-We run slither on our packages. If you want to run it should install slither
+We run slither on our packages. If you want to run  it  should  install  slither
 
 ```bash
 brew install slither-analyzer
