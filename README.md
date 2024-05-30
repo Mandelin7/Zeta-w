@@ -18,7 +18,7 @@ ZetaChain is a public, decentralized  blockchain and smart contract  platform  b
 
 1. Install [Node.js LTS](https://nodejs.org/en/) (previous versions may, but are not guaranteed to work).
 
-1. Install `yarn` (make sure NPM has the right permissions to add global packages):
+1. Install `yarn` (make sure NPM has the right permissions  to  add  global packages):
 
         npm i -g yarn
 
